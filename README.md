@@ -17,31 +17,24 @@ A full-stack web application for booking movie tickets, built with Django REST F
 
 ### Home Page
 ![Home Page](output/Home.png)
-*Browse latest movies and featured content*
 
 ### Showtimes
 ![Showtimes](output/Showtimes.png)
-*Select from available movie showtimes*
 
 ### Seat Selection
 ![Seat Selection](output/Seat%20Selection.png)
-*Interactive seat selection with real-time availability*
 
 ### Checkout
 ![Checkout](output/Checkout.png)
-*Secure payment processing*
 
 ### Booking Confirmation
 ![Booking Confirmation](output/Booking%20confirmation.png)
-*Instant booking confirmation with details*
 
 ### Movie Ticket
 ![Movie Ticket](output/Movie%20Ticket.png)
-*Digital movie ticket*
 
 ### My Bookings
 ![My Bookings](output/My%20bookings.png)
-*View booking history and upcoming shows*
 
 ## Tech Stack
 

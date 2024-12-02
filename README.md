@@ -1,4 +1,4 @@
-# Real Time Movie Ticket Booking System
+# Real-Time Movie Ticket Booking System
 
 A full-stack web application for booking movie tickets, built with Django REST Framework and React TypeScript. Features real-time seat availability updates and instant booking confirmations.
 

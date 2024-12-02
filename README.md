@@ -134,14 +134,6 @@ npm start
 - `REACT_APP_FIREBASE_*`: Firebase client configuration
 - `REACT_APP_STRIPE_PUBLISHABLE_KEY`: Stripe publishable key
 
-## API Endpoints
-
-- `/api/movies/`: Movie management
-- `/api/showtimes/`: Showtime management
-- `/api/bookings/`: Booking management
-- `/api/payments/`: Payment processing
-- `/api/users/`: User management
-
 ## Real-time Features
 
 - Seat availability updates instantly when other users make bookings
